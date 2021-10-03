@@ -1,6 +1,6 @@
 import React,{Component} from "react";
 import {v4 as uuidv4} from "uuid";
-import style from './contactForm.module.scss';
+import style from './styles/contactForm.module.scss';
 
 class ContactForm extends Component {
 
